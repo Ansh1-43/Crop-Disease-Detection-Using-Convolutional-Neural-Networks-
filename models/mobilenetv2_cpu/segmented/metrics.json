@@ -1,0 +1,12 @@
+{
+  "section": "segmented",
+  "model": "MobileNetV2",
+  "training_device": "CPU",
+  "num_classes": 38,
+  "train_images": 38034,
+  "validation_images": 8047,
+  "test_images": 8225,
+  "test_loss": 0.23840788006782532,
+  "test_accuracy": 0.9198784232139587,
+  "epochs_completed": 5
+}
