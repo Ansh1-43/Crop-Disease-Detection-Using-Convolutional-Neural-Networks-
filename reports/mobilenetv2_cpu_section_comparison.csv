@@ -1,0 +1,4 @@
+section,model,training_device,num_classes,train_images,validation_images,test_images,test_loss,test_accuracy,epochs_completed
+color,MobileNetV2,CPU,38,37996,8243,8066,0.1791151463985443,0.9408628940582275,5
+grayscale,MobileNetV2,CPU,38,37996,8243,8066,0.3044922351837158,0.9006942510604858,5
+segmented,MobileNetV2,CPU,38,38034,8047,8225,0.23840788006782532,0.9198784232139587,5
