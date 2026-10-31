@@ -1,0 +1,14 @@
+# Core ML framework (matches the TensorFlow version used for training)
+tensorflow==2.19.0
+
+# Streamlit application
+streamlit>=1.41,<2
+
+# Core numerical and image libraries
+numpy>=1.26,<2.2
+Pillow>=10,<12
+
+# Data preparation, evaluation and EDA
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
