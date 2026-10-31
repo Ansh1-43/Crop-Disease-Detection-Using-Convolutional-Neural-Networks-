@@ -1,0 +1,8 @@
+section,extension,image_count
+color,.jpg,54303
+color,.png,1
+color,.jpeg,1
+grayscale,.jpg,54303
+grayscale,.png,1
+grayscale,.jpeg,1
+segmented,.jpg,54306
