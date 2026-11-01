@@ -4,7 +4,7 @@
 
 ### From leaf image to an explainable disease-classification result.
 
-**Team AWX! · CodeSprint 2026**
+**LeafLine🧬**
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -14,8 +14,7 @@
 > **A research and learning prototype for preliminary crop-leaf disease classification.**
 > It is designed to support image-based screening—not to replace an agricultural expert.
 
-**🚀 Live application:** Add your Streamlit Community Cloud URL here  
-**📦 GitHub repository:** Add your repository URL here
+**🚀 Live application:** [TAP-HERE!](https://ansh1-43-crop-disease-detection-using-convolution-srcapp-vhwhcf.streamlit.app/)
 
 </div>
 
@@ -302,7 +301,7 @@ Add a `LICENSE` file to this repository to define the license for your own code.
 
 <div align="center">
 
-**Built by https://www.linkedin.com/in/Anxh 2026**
+**Built by https://www.linkedin.com/in/Anxh 2k26**
 
 *Explore the image. Inspect the prediction. Validate before acting.*
 
