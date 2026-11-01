@@ -302,7 +302,7 @@ Add a `LICENSE` file to this repository to define the license for your own code.
 
 <div align="center">
 
-**Built by Team AWX! · CodeSprint 2026**
+**Built by https://www.linkedin.com/in/Anxh 2026**
 
 *Explore the image. Inspect the prediction. Validate before acting.*
 
